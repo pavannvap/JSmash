@@ -1,2 +1,2 @@
 # JSmash
-Pavan Kumar Nimmaraju
+Venkata Ananth Nimmaraju 
