@@ -8,3 +8,6 @@ function unknown(){
 function devide(){
     alert('devide method');
   }
+function newmethod(){
+    alert('new method');
+  }
