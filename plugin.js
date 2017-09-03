@@ -9,3 +9,7 @@ function subtract(){
 function multiply(){
     alert('multiply method');
   }
+
+function unknown(){
+    alert('unknown method');
+}
