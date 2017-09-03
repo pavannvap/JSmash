@@ -9,3 +9,7 @@ function subtract(){
 function multiply(){
     alert('multiply method');
   }
+
+function devide(){
+    alert('devide method');
+  }
