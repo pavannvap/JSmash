@@ -5,3 +5,7 @@ function add(){
 function subtract(){
   alert('subtract method');
 }
+
+function multiply(){
+    alert('multiply method');
+  }
